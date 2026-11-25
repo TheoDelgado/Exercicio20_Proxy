@@ -1,1 +1,1 @@
-# Exercicio20_Proxy
+![Diagrama Proxy](Diagrama_Proxy.jpg)
